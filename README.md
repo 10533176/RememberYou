@@ -2,8 +2,8 @@
 app to store all your precious memories 
 
 # Proposal 
-# *Femke van Son 
-# *10533176
+# *Femke van Son*
+# *10533176*
 
 MY APP: 
 Wil jij 2017 een onvergetelijk jaar maken? Wil jij niet weer een jaar laten voorbij vliegen zonder stil te staan bij de goede herinneringen? Wil jij op 1 plek makkelijk al die herinneringen opslaan? Dan is RememberMe de app voor jou! 
